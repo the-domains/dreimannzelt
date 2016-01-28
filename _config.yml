@@ -1,7 +1,7 @@
 name: Dreimannzelt
 favicon: null
-layout_spectrum: 0.2992628109641373
-typography_spectrum: 0.5156812225468457
+layout_spectrum: 0
+typography_spectrum: 0.53883
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#ffffff'
     - '#7c7c7c'
     - '#00b8d2'
-  brandStrength: 0.875
-  lightness: 0.0625
+  brandStrength: 0.75
+  lightness: 0.25
   saturation: 0.875
   rhythmicContrast: 0.25
 purpose: []
